@@ -1,0 +1,1641 @@
+{
+    "status": "succeeded",
+    "createdDateTime": "2021-04-01T16:30:45Z",
+    "lastUpdatedDateTime": "2021-04-01T16:30:57Z",
+    "analyzeResult": {
+        "version": "2.1.0",
+        "readResults": [
+            {
+                "page": 1,
+                "angle": 0,
+                "width": 8.2639,
+                "height": 11.6806,
+                "unit": "inch",
+                "lines": [
+                    {
+                        "text": "SAP Australia Pty Ltd",
+                        "boundingBox": [
+                            1.1103,
+                            1.8606,
+                            4.2486,
+                            1.8606,
+                            4.2486,
+                            2.18,
+                            1.1103,
+                            2.1546
+                        ],
+                        "words": [
+                            {
+                                "text": "SAP",
+                                "boundingBox": [
+                                    1.1154,
+                                    1.8707,
+                                    1.7745,
+                                    1.8707,
+                                    1.7694,
+                                    2.1394,
+                                    1.1103,
+                                    2.1293
+                                ],
+                                "confidence": 0.987
+                            },
+                            {
+                                "text": "Australia",
+                                "boundingBox": [
+                                    1.8404,
+                                    1.8707,
+                                    3.1332,
+                                    1.8707,
+                                    3.1332,
+                                    2.1648,
+                                    1.8353,
+                                    2.1394
+                                ],
+                                "confidence": 0.983
+                            },
+                            {
+                                "text": "Pty",
+                                "boundingBox": [
+                                    3.1839,
+                                    1.8707,
+                                    3.6909,
+                                    1.8656,
+                                    3.6858,
+                                    2.1749,
+                                    3.1839,
+                                    2.1648
+                                ],
+                                "confidence": 0.983
+                            },
+                            {
+                                "text": "Ltd",
+                                "boundingBox": [
+                                    3.7416,
+                                    1.8656,
+                                    4.2435,
+                                    1.8656,
+                                    4.2435,
+                                    2.185,
+                                    3.7365,
+                                    2.18
+                                ],
+                                "confidence": 0.987
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 1
+                            }
+                        }
+                    },
+                    {
+                        "text": "CONFIDENTIAL",
+                        "boundingBox": [
+                            0.2713,
+                            1.962,
+                            8.0251,
+                            1.962,
+                            8.0251,
+                            9.7118,
+                            0.2713,
+                            9.7118
+                        ],
+                        "words": [
+                            {
+                                "text": "CONFIDENTIAL",
+                                "boundingBox": [
+                                    0.2713,
+                                    1.962,
+                                    8.0251,
+                                    1.962,
+                                    8.0251,
+                                    9.7118,
+                                    0.2713,
+                                    9.7118
+                                ],
+                                "confidence": 1
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 1
+                            }
+                        }
+                    },
+                    {
+                        "text": "SAP Interpreter AV PO#4504046173",
+                        "boundingBox": [
+                            1.1351,
+                            2.3509,
+                            4.7577,
+                            2.3509,
+                            4.7577,
+                            2.5552,
+                            1.1351,
+                            2.5552
+                        ],
+                        "words": [
+                            {
+                                "text": "SAP",
+                                "boundingBox": [
+                                    1.1351,
+                                    2.3509,
+                                    1.5626,
+                                    2.3509,
+                                    1.5626,
+                                    2.5145,
+                                    1.1351,
+                                    2.5145
+                                ],
+                                "confidence": 1
+                            },
+                            {
+                                "text": "Interpreter",
+                                "boundingBox": [
+                                    1.6448,
+                                    2.355,
+                                    2.7069,
+                                    2.355,
+                                    2.7069,
+                                    2.5552,
+                                    1.6448,
+                                    2.5552
+                                ],
+                                "confidence": 1
+                            },
+                            {
+                                "text": "AV",
+                                "boundingBox": [
+                                    2.7773,
+                                    2.355,
+                                    3.0694,
+                                    2.355,
+                                    3.0694,
+                                    2.5106,
+                                    2.7773,
+                                    2.5106
+                                ],
+                                "confidence": 1
+                            },
+                            {
+                                "text": "PO#4504046173",
+                                "boundingBox": [
+                                    3.1496,
+                                    2.355,
+                                    4.7577,
+                                    2.355,
+                                    4.7577,
+                                    2.5145,
+                                    3.1496,
+                                    2.5145
+                                ],
+                                "confidence": 1
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 1
+                            }
+                        }
+                    },
+                    {
+                        "text": "HYATT REGENCY SYDNEY",
+                        "boundingBox": [
+                            1.142,
+                            2.6209,
+                            3.9194,
+                            2.6209,
+                            3.9194,
+                            2.7845,
+                            1.142,
+                            2.7845
+                        ],
+                        "words": [
+                            {
+                                "text": "HYATT",
+                                "boundingBox": [
+                                    1.142,
+                                    2.625,
+                                    1.8412,
+                                    2.625,
+                                    1.8412,
+                                    2.7806,
+                                    1.142,
+                                    2.7806
+                                ],
+                                "confidence": 1
+                            },
+                            {
+                                "text": "REGENCY",
+                                "boundingBox": [
+                                    1.9228,
+                                    2.6209,
+                                    2.9715,
+                                    2.6209,
+                                    2.9715,
+                                    2.7845,
+                                    1.9228,
+                                    2.7845
+                                ],
+                                "confidence": 1
+                            },
+                            {
+                                "text": "SYDNEY",
+                                "boundingBox": [
+                                    3.0418,
+                                    2.6209,
+                                    3.9194,
+                                    2.6209,
+                                    3.9194,
+                                    2.7845,
+                                    3.0418,
+                                    2.7845
+                                ],
+                                "confidence": 1
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 1
+                            }
+                        }
+                    },
+                    {
+                        "text": "January 6, 2019 - Group Bill",
+                        "boundingBox": [
+                            1.1314,
+                            2.8935,
+                            3.9563,
+                            2.8935,
+                            3.9563,
+                            3.0967,
+                            1.1314,
+                            3.0967
+                        ],
+                        "words": [
+                            {
+                                "text": "January",
+                                "boundingBox": [
+                                    1.1314,
+                                    2.895,
+                                    1.9517,
+                                    2.895,
+                                    1.9517,
+                                    3.0967,
+                                    1.1314,
+                                    3.0967
+                                ],
+                                "confidence": 1
+                            },
+                            {
+                                "text": "6,",
+                                "boundingBox": [
+                                    2.0217,
+                                    2.8967,
+                                    2.1815,
+                                    2.8967,
+                                    2.1815,
+                                    3.0867,
+                                    2.0217,
+                                    3.0867
+                                ],
+                                "confidence": 1
+                            },
+                            {
+                                "text": "2019",
+                                "boundingBox": [
+                                    2.2606,
+                                    2.8967,
+                                    2.7283,
+                                    2.8967,
+                                    2.7283,
+                                    3.0545,
+                                    2.2606,
+                                    3.0545
+                                ],
+                                "confidence": 1
+                            },
+                            {
+                                "text": "-",
+                                "boundingBox": [
+                                    2.8012,
+                                    2.9758,
+                                    2.8616,
+                                    2.9758,
+                                    2.8616,
+                                    3.004,
+                                    2.8012,
+                                    3.004
+                                ],
+                                "confidence": 1
+                            },
+                            {
+                                "text": "Group",
+                                "boundingBox": [
+                                    2.9366,
+                                    2.8952,
+                                    3.5685,
+                                    2.8952,
+                                    3.5685,
+                                    3.0952,
+                                    2.9366,
+                                    3.0952
+                                ],
+                                "confidence": 1
+                            },
+                            {
+                                "text": "Bill",
+                                "boundingBox": [
+                                    3.6517,
+                                    2.8935,
+                                    3.9563,
+                                    2.8935,
+                                    3.9563,
+                                    3.0506,
+                                    3.6517,
+                                    3.0506
+                                ],
+                                "confidence": 1
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 1
+                            }
+                        }
+                    },
+                    {
+                        "text": "HYATT",
+                        "boundingBox": [
+                            1.085,
+                            9.673,
+                            2.1902,
+                            9.6628,
+                            2.1953,
+                            9.896,
+                            1.085,
+                            9.9112
+                        ],
+                        "words": [
+                            {
+                                "text": "HYATT",
+                                "boundingBox": [
+                                    1.09,
+                                    9.678,
+                                    2.1902,
+                                    9.6679,
+                                    2.1851,
+                                    9.9011,
+                                    1.09,
+                                    9.9163
+                                ],
+                                "confidence": 0.986
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 1
+                            }
+                        }
+                    },
+                    {
+                        "text": "REGENCY'",
+                        "boundingBox": [
+                            1.0748,
+                            9.9417,
+                            2.2409,
+                            9.9417,
+                            2.2409,
+                            10.1343,
+                            1.0748,
+                            10.1343
+                        ],
+                        "words": [
+                            {
+                                "text": "REGENCY'",
+                                "boundingBox": [
+                                    1.0799,
+                                    9.9467,
+                                    2.2409,
+                                    9.9417,
+                                    2.2409,
+                                    10.1394,
+                                    1.0799,
+                                    10.1394
+                                ],
+                                "confidence": 0.83
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.999
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "page": 2,
+                "angle": 0,
+                "width": 8.2639,
+                "height": 11.6806,
+                "unit": "inch",
+                "lines": [
+                    {
+                        "text": "HYATT REGENCY'",
+                        "boundingBox": [
+                            0.7149,
+                            1.1153,
+                            2.1648,
+                            1.1103,
+                            2.1648,
+                            1.2674,
+                            0.7149,
+                            1.2725
+                        ],
+                        "words": [
+                            {
+                                "text": "HYATT",
+                                "boundingBox": [
+                                    0.725,
+                                    1.1204,
+                                    1.303,
+                                    1.1204,
+                                    1.2979,
+                                    1.2725,
+                                    0.7199,
+                                    1.2674
+                                ],
+                                "confidence": 0.986
+                            },
+                            {
+                                "text": "REGENCY'",
+                                "boundingBox": [
+                                    1.3334,
+                                    1.1204,
+                                    2.1699,
+                                    1.1153,
+                                    2.1648,
+                                    1.2674,
+                                    1.3283,
+                                    1.2725
+                                ],
+                                "confidence": 0.818
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.997
+                            }
+                        }
+                    },
+                    {
+                        "text": "Misc",
+                        "boundingBox": [
+                            7.3209,
+                            1.1153,
+                            7.7163,
+                            1.1103,
+                            7.7214,
+                            1.237,
+                            7.3209,
+                            1.2471
+                        ],
+                        "words": [
+                            {
+                                "text": "Misc",
+                                "boundingBox": [
+                                    7.3412,
+                                    1.1204,
+                                    7.7163,
+                                    1.1153,
+                                    7.7113,
+                                    1.2421,
+                                    7.3412,
+                                    1.2471
+                                ],
+                                "confidence": 0.986
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 1
+                            }
+                        }
+                    },
+                    {
+                        "text": "TOC",
+                        "boundingBox": [
+                            6.4083,
+                            1.313,
+                            6.6669,
+                            1.3181,
+                            6.6669,
+                            1.4043,
+                            6.4032,
+                            1.4043
+                        ],
+                        "words": [
+                            {
+                                "text": "TOC",
+                                "boundingBox": [
+                                    6.4134,
+                                    1.313,
+                                    6.6517,
+                                    1.313,
+                                    6.6517,
+                                    1.4043,
+                                    6.4134,
+                                    1.3992
+                                ],
+                                "confidence": 0.987
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.999
+                            }
+                        }
+                    },
+                    {
+                        "text": "Summary",
+                        "boundingBox": [
+                            6.819,
+                            1.3181,
+                            7.2499,
+                            1.3181,
+                            7.2499,
+                            1.4094,
+                            6.819,
+                            1.4043
+                        ],
+                        "words": [
+                            {
+                                "text": "Summary",
+                                "boundingBox": [
+                                    6.819,
+                                    1.3232,
+                                    7.2499,
+                                    1.3232,
+                                    7.2448,
+                                    1.4094,
+                                    6.824,
+                                    1.4094
+                                ],
+                                "confidence": 0.72
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.998
+                            }
+                        }
+                    },
+                    {
+                        "text": "CONFIDENTIAL",
+                        "boundingBox": [
+                            0.2634,
+                            2.0263,
+                            7.9607,
+                            2.0263,
+                            7.9607,
+                            9.7207,
+                            0.2634,
+                            9.7207
+                        ],
+                        "words": [
+                            {
+                                "text": "CONFIDENTIAL",
+                                "boundingBox": [
+                                    0.2634,
+                                    2.0263,
+                                    7.9607,
+                                    2.0263,
+                                    7.9607,
+                                    9.7207,
+                                    0.2634,
+                                    9.7207
+                                ],
+                                "confidence": 1
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 1
+                            }
+                        }
+                    },
+                    {
+                        "text": "Contents",
+                        "boundingBox": [
+                            1.0444,
+                            1.8048,
+                            2.2003,
+                            1.8099,
+                            2.2003,
+                            2.0583,
+                            1.0444,
+                            2.0532
+                        ],
+                        "words": [
+                            {
+                                "text": "Contents",
+                                "boundingBox": [
+                                    1.0495,
+                                    1.8099,
+                                    2.2054,
+                                    1.8251,
+                                    2.2003,
+                                    2.0583,
+                                    1.0495,
+                                    2.0583
+                                ],
+                                "confidence": 0.984
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.996
+                            }
+                        }
+                    },
+                    {
+                        "text": "TOC",
+                        "boundingBox": [
+                            0.5577,
+                            1.9417,
+                            0.7858,
+                            1.9316,
+                            0.7858,
+                            2.0279,
+                            0.5577,
+                            2.0279
+                        ],
+                        "words": [
+                            {
+                                "text": "TOC",
+                                "boundingBox": [
+                                    0.5577,
+                                    1.9366,
+                                    0.7808,
+                                    1.9316,
+                                    0.7808,
+                                    2.0279,
+                                    0.5577,
+                                    2.0329
+                                ],
+                                "confidence": 0.987
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 1
+                            }
+                        }
+                    },
+                    {
+                        "text": "Tax Invoice",
+                        "boundingBox": [
+                            0.4968,
+                            2.2256,
+                            1.1306,
+                            2.2256,
+                            1.1306,
+                            2.3473,
+                            0.4968,
+                            2.3473
+                        ],
+                        "words": [
+                            {
+                                "text": "Tax",
+                                "boundingBox": [
+                                    0.5019,
+                                    2.2307,
+                                    0.6895,
+                                    2.2307,
+                                    0.6895,
+                                    2.3473,
+                                    0.5019,
+                                    2.3473
+                                ],
+                                "confidence": 0.987
+                            },
+                            {
+                                "text": "Invoice",
+                                "boundingBox": [
+                                    0.7098,
+                                    2.2307,
+                                    1.1306,
+                                    2.2307,
+                                    1.1306,
+                                    2.3473,
+                                    0.7098,
+                                    2.3473
+                                ],
+                                "confidence": 0.981
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.999
+                            }
+                        }
+                    },
+                    {
+                        "text": "1",
+                        "boundingBox": [
+                            7.6707,
+                            2.2307,
+                            7.7417,
+                            2.2256,
+                            7.7518,
+                            2.3422,
+                            7.6809,
+                            2.3473
+                        ],
+                        "words": [
+                            {
+                                "text": "1",
+                                "boundingBox": [
+                                    7.6758,
+                                    2.2307,
+                                    7.7366,
+                                    2.2256,
+                                    7.7468,
+                                    2.3422,
+                                    7.6809,
+                                    2.3473
+                                ],
+                                "confidence": 0.986
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.515
+                            }
+                        }
+                    },
+                    {
+                        "text": "Summary of Charges by Department",
+                        "boundingBox": [
+                            0.654,
+                            2.4689,
+                            2.682,
+                            2.4639,
+                            2.682,
+                            2.6058,
+                            0.654,
+                            2.6109
+                        ],
+                        "words": [
+                            {
+                                "text": "Summary",
+                                "boundingBox": [
+                                    0.654,
+                                    2.4841,
+                                    1.1813,
+                                    2.474,
+                                    1.1813,
+                                    2.6109,
+                                    0.6591,
+                                    2.6007
+                                ],
+                                "confidence": 0.985
+                            },
+                            {
+                                "text": "of",
+                                "boundingBox": [
+                                    1.2016,
+                                    2.474,
+                                    1.3182,
+                                    2.474,
+                                    1.3232,
+                                    2.6109,
+                                    1.2066,
+                                    2.6109
+                                ],
+                                "confidence": 0.983
+                            },
+                            {
+                                "text": "Charges",
+                                "boundingBox": [
+                                    1.3435,
+                                    2.474,
+                                    1.7897,
+                                    2.4689,
+                                    1.7897,
+                                    2.6109,
+                                    1.3435,
+                                    2.6109
+                                ],
+                                "confidence": 0.985
+                            },
+                            {
+                                "text": "by",
+                                "boundingBox": [
+                                    1.815,
+                                    2.4689,
+                                    1.9519,
+                                    2.4689,
+                                    1.9519,
+                                    2.6109,
+                                    1.815,
+                                    2.6109
+                                ],
+                                "confidence": 0.988
+                            },
+                            {
+                                "text": "Department",
+                                "boundingBox": [
+                                    1.9772,
+                                    2.4689,
+                                    2.682,
+                                    2.4689,
+                                    2.682,
+                                    2.6007,
+                                    1.9772,
+                                    2.6109
+                                ],
+                                "confidence": 0.981
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.999
+                            }
+                        }
+                    },
+                    {
+                        "text": "1",
+                        "boundingBox": [
+                            7.6758,
+                            2.474,
+                            7.7468,
+                            2.474,
+                            7.7518,
+                            2.5906,
+                            7.6809,
+                            2.5855
+                        ],
+                        "words": [
+                            {
+                                "text": "1",
+                                "boundingBox": [
+                                    7.6859,
+                                    2.474,
+                                    7.7468,
+                                    2.474,
+                                    7.7417,
+                                    2.5906,
+                                    7.6809,
+                                    2.5855
+                                ],
+                                "confidence": 0.986
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "handwriting",
+                                "confidence": 0.878
+                            }
+                        }
+                    },
+                    {
+                        "text": "Contacts",
+                        "boundingBox": [
+                            0.654,
+                            2.7174,
+                            1.1559,
+                            2.7174,
+                            1.1559,
+                            2.834,
+                            0.654,
+                            2.834
+                        ],
+                        "words": [
+                            {
+                                "text": "Contacts",
+                                "boundingBox": [
+                                    0.6591,
+                                    2.7174,
+                                    1.1559,
+                                    2.7224,
+                                    1.1559,
+                                    2.839,
+                                    0.654,
+                                    2.834
+                                ],
+                                "confidence": 0.984
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.998
+                            }
+                        }
+                    },
+                    {
+                        "text": "1",
+                        "boundingBox": [
+                            7.6707,
+                            2.7174,
+                            7.7518,
+                            2.7072,
+                            7.7569,
+                            2.8238,
+                            7.6758,
+                            2.8289
+                        ],
+                        "words": [
+                            {
+                                "text": "1",
+                                "boundingBox": [
+                                    7.6809,
+                                    2.7123,
+                                    7.7518,
+                                    2.7072,
+                                    7.762,
+                                    2.8187,
+                                    7.691,
+                                    2.8289
+                                ],
+                                "confidence": 0.986
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "handwriting",
+                                "confidence": 0.826
+                            }
+                        }
+                    },
+                    {
+                        "text": "Miscellaneous Charges",
+                        "boundingBox": [
+                            0.5019,
+                            2.9556,
+                            1.7846,
+                            2.9658,
+                            1.7846,
+                            3.0925,
+                            0.5019,
+                            3.0824
+                        ],
+                        "words": [
+                            {
+                                "text": "Miscellaneous",
+                                "boundingBox": [
+                                    0.507,
+                                    2.9607,
+                                    1.2979,
+                                    2.9607,
+                                    1.2928,
+                                    3.0874,
+                                    0.507,
+                                    3.0824
+                                ],
+                                "confidence": 0.974
+                            },
+                            {
+                                "text": "Charges",
+                                "boundingBox": [
+                                    1.3182,
+                                    2.9607,
+                                    1.7846,
+                                    2.9658,
+                                    1.7795,
+                                    3.0976,
+                                    1.3182,
+                                    3.0874
+                                ],
+                                "confidence": 0.985
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 1
+                            }
+                        }
+                    },
+                    {
+                        "text": "2",
+                        "boundingBox": [
+                            7.6758,
+                            2.9607,
+                            7.762,
+                            2.9556,
+                            7.7569,
+                            3.0722,
+                            7.6707,
+                            3.0773
+                        ],
+                        "words": [
+                            {
+                                "text": "2",
+                                "boundingBox": [
+                                    7.6707,
+                                    2.9607,
+                                    7.7518,
+                                    2.9556,
+                                    7.7569,
+                                    3.0672,
+                                    7.6758,
+                                    3.0722
+                                ],
+                                "confidence": 0.987
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.905
+                            }
+                        }
+                    },
+                    {
+                        "text": "Summary of Audio Visual Charges",
+                        "boundingBox": [
+                            0.654,
+                            3.199,
+                            2.5299,
+                            3.199,
+                            2.5299,
+                            3.3308,
+                            0.654,
+                            3.3308
+                        ],
+                        "words": [
+                            {
+                                "text": "Summary",
+                                "boundingBox": [
+                                    0.654,
+                                    3.2091,
+                                    1.1813,
+                                    3.204,
+                                    1.1813,
+                                    3.3359,
+                                    0.6591,
+                                    3.3308
+                                ],
+                                "confidence": 0.985
+                            },
+                            {
+                                "text": "of",
+                                "boundingBox": [
+                                    1.2066,
+                                    3.204,
+                                    1.3182,
+                                    3.204,
+                                    1.3182,
+                                    3.3359,
+                                    1.2066,
+                                    3.3359
+                                ],
+                                "confidence": 0.987
+                            },
+                            {
+                                "text": "Audio",
+                                "boundingBox": [
+                                    1.3384,
+                                    3.204,
+                                    1.6832,
+                                    3.199,
+                                    1.6832,
+                                    3.3359,
+                                    1.3384,
+                                    3.3359
+                                ],
+                                "confidence": 0.986
+                            },
+                            {
+                                "text": "Visual",
+                                "boundingBox": [
+                                    1.7085,
+                                    3.199,
+                                    2.033,
+                                    3.204,
+                                    2.033,
+                                    3.3359,
+                                    1.7085,
+                                    3.3359
+                                ],
+                                "confidence": 0.985
+                            },
+                            {
+                                "text": "Charges",
+                                "boundingBox": [
+                                    2.0584,
+                                    3.204,
+                                    2.5299,
+                                    3.2091,
+                                    2.5248,
+                                    3.3359,
+                                    2.0584,
+                                    3.3359
+                                ],
+                                "confidence": 0.985
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 1
+                            }
+                        }
+                    },
+                    {
+                        "text": "3",
+                        "boundingBox": [
+                            7.6656,
+                            3.2142,
+                            7.7468,
+                            3.2142,
+                            7.7518,
+                            3.3156,
+                            7.6656,
+                            3.3156
+                        ],
+                        "words": [
+                            {
+                                "text": "3",
+                                "boundingBox": [
+                                    7.6707,
+                                    3.2142,
+                                    7.7468,
+                                    3.2142,
+                                    7.7468,
+                                    3.3156,
+                                    7.6707,
+                                    3.3156
+                                ],
+                                "confidence": 0.987
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.893
+                            }
+                        }
+                    },
+                    {
+                        "text": "Summary of Payment and Deposit",
+                        "boundingBox": [
+                            0.5019,
+                            3.4372,
+                            2.4082,
+                            3.4372,
+                            2.4082,
+                            3.5792,
+                            0.5019,
+                            3.5792
+                        ],
+                        "words": [
+                            {
+                                "text": "Summary",
+                                "boundingBox": [
+                                    0.507,
+                                    3.4575,
+                                    1.0292,
+                                    3.4474,
+                                    1.0292,
+                                    3.5792,
+                                    0.507,
+                                    3.5741
+                                ],
+                                "confidence": 0.984
+                            },
+                            {
+                                "text": "of",
+                                "boundingBox": [
+                                    1.0495,
+                                    3.4474,
+                                    1.1661,
+                                    3.4423,
+                                    1.1661,
+                                    3.5843,
+                                    1.0545,
+                                    3.5843
+                                ],
+                                "confidence": 0.983
+                            },
+                            {
+                                "text": "Payment",
+                                "boundingBox": [
+                                    1.1863,
+                                    3.4423,
+                                    1.6883,
+                                    3.4423,
+                                    1.6883,
+                                    3.5843,
+                                    1.1914,
+                                    3.5843
+                                ],
+                                "confidence": 0.985
+                            },
+                            {
+                                "text": "and",
+                                "boundingBox": [
+                                    1.7136,
+                                    3.4423,
+                                    1.9215,
+                                    3.4423,
+                                    1.9266,
+                                    3.5843,
+                                    1.7136,
+                                    3.5843
+                                ],
+                                "confidence": 0.987
+                            },
+                            {
+                                "text": "Deposit",
+                                "boundingBox": [
+                                    1.9468,
+                                    3.4423,
+                                    2.4082,
+                                    3.4525,
+                                    2.4133,
+                                    3.5741,
+                                    1.9468,
+                                    3.5843
+                                ],
+                                "confidence": 0.983
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 1
+                            }
+                        }
+                    },
+                    {
+                        "text": "4",
+                        "boundingBox": [
+                            7.6758,
+                            3.4474,
+                            7.767,
+                            3.4474,
+                            7.767,
+                            3.5488,
+                            7.6758,
+                            3.5488
+                        ],
+                        "words": [
+                            {
+                                "text": "4",
+                                "boundingBox": [
+                                    7.6758,
+                                    3.4474,
+                                    7.762,
+                                    3.4474,
+                                    7.762,
+                                    3.5488,
+                                    7.6758,
+                                    3.5488
+                                ],
+                                "confidence": 0.987
+                            }
+                        ],
+                        "appearance": {
+                            "style": {
+                                "name": "other",
+                                "confidence": 0.969
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "pageResults": [
+            {
+                "page": 1
+            },
+            {
+                "page": 2,
+                "tables": [
+                    {
+                        "rows": 6,
+                        "columns": 2,
+                        "cells": [
+                            {
+                                "rowIndex": 0,
+                                "columnIndex": 0,
+                                "text": "Tax Invoice",
+                                "boundingBox": [
+                                    0.4367,
+                                    2.1638,
+                                    5.149,
+                                    2.1708,
+                                    5.149,
+                                    2.4021,
+                                    0.4367,
+                                    2.4021
+                                ],
+                                "elements": [
+                                    "#/readResults/1/lines/7/words/0",
+                                    "#/readResults/1/lines/7/words/1"
+                                ]
+                            },
+                            {
+                                "rowIndex": 0,
+                                "columnIndex": 1,
+                                "text": "1",
+                                "boundingBox": [
+                                    5.149,
+                                    2.1708,
+                                    7.802,
+                                    2.1708,
+                                    7.802,
+                                    2.4021,
+                                    5.149,
+                                    2.4021
+                                ],
+                                "elements": [
+                                    "#/readResults/1/lines/8/words/0"
+                                ]
+                            },
+                            {
+                                "rowIndex": 1,
+                                "columnIndex": 0,
+                                "text": "Summary of Charges by Department",
+                                "boundingBox": [
+                                    0.4367,
+                                    2.4021,
+                                    5.149,
+                                    2.4021,
+                                    5.149,
+                                    2.6475,
+                                    0.4367,
+                                    2.6475
+                                ],
+                                "elements": [
+                                    "#/readResults/1/lines/9/words/0",
+                                    "#/readResults/1/lines/9/words/1",
+                                    "#/readResults/1/lines/9/words/2",
+                                    "#/readResults/1/lines/9/words/3",
+                                    "#/readResults/1/lines/9/words/4"
+                                ]
+                            },
+                            {
+                                "rowIndex": 1,
+                                "columnIndex": 1,
+                                "text": "1",
+                                "boundingBox": [
+                                    5.149,
+                                    2.4021,
+                                    7.802,
+                                    2.4021,
+                                    7.8096,
+                                    2.6475,
+                                    5.149,
+                                    2.6475
+                                ],
+                                "elements": [
+                                    "#/readResults/1/lines/10/words/0"
+                                ]
+                            },
+                            {
+                                "rowIndex": 2,
+                                "columnIndex": 0,
+                                "text": "Contacts",
+                                "boundingBox": [
+                                    0.4367,
+                                    2.6475,
+                                    5.149,
+                                    2.6475,
+                                    5.1565,
+                                    2.8858,
+                                    0.4367,
+                                    2.8858
+                                ],
+                                "elements": [
+                                    "#/readResults/1/lines/11/words/0"
+                                ]
+                            },
+                            {
+                                "rowIndex": 2,
+                                "columnIndex": 1,
+                                "text": "1",
+                                "boundingBox": [
+                                    5.149,
+                                    2.6475,
+                                    7.8096,
+                                    2.6475,
+                                    7.8096,
+                                    2.8929,
+                                    5.1565,
+                                    2.8858
+                                ],
+                                "elements": [
+                                    "#/readResults/1/lines/12/words/0"
+                                ]
+                            },
+                            {
+                                "rowIndex": 3,
+                                "columnIndex": 0,
+                                "text": "Miscellaneous Charges",
+                                "boundingBox": [
+                                    0.4367,
+                                    2.8858,
+                                    5.1565,
+                                    2.8858,
+                                    5.1565,
+                                    3.1312,
+                                    0.4367,
+                                    3.1312
+                                ],
+                                "elements": [
+                                    "#/readResults/1/lines/13/words/0",
+                                    "#/readResults/1/lines/13/words/1"
+                                ]
+                            },
+                            {
+                                "rowIndex": 3,
+                                "columnIndex": 1,
+                                "text": "2",
+                                "boundingBox": [
+                                    5.1565,
+                                    2.8858,
+                                    7.8096,
+                                    2.8929,
+                                    7.8096,
+                                    3.1312,
+                                    5.1565,
+                                    3.1312
+                                ],
+                                "elements": [
+                                    "#/readResults/1/lines/14/words/0"
+                                ]
+                            },
+                            {
+                                "rowIndex": 4,
+                                "columnIndex": 0,
+                                "text": "Summary of Audio Visual Charges",
+                                "boundingBox": [
+                                    0.4367,
+                                    3.1312,
+                                    5.1565,
+                                    3.1312,
+                                    5.1565,
+                                    3.3696,
+                                    0.4292,
+                                    3.3696
+                                ],
+                                "elements": [
+                                    "#/readResults/1/lines/15/words/0",
+                                    "#/readResults/1/lines/15/words/1",
+                                    "#/readResults/1/lines/15/words/2",
+                                    "#/readResults/1/lines/15/words/3",
+                                    "#/readResults/1/lines/15/words/4"
+                                ]
+                            },
+                            {
+                                "rowIndex": 4,
+                                "columnIndex": 1,
+                                "text": "3",
+                                "boundingBox": [
+                                    5.1565,
+                                    3.1312,
+                                    7.8096,
+                                    3.1312,
+                                    7.8096,
+                                    3.3696,
+                                    5.1565,
+                                    3.3696
+                                ],
+                                "elements": [
+                                    "#/readResults/1/lines/16/words/0"
+                                ]
+                            },
+                            {
+                                "rowIndex": 5,
+                                "columnIndex": 0,
+                                "text": "CONFIDENTIAL Summary of Payment and Deposit",
+                                "boundingBox": [
+                                    0.4292,
+                                    3.3696,
+                                    5.1565,
+                                    3.3696,
+                                    5.164,
+                                    3.6149,
+                                    0.4292,
+                                    3.6149
+                                ],
+                                "elements": [
+                                    "#/readResults/1/lines/4/words/0",
+                                    "#/readResults/1/lines/17/words/0",
+                                    "#/readResults/1/lines/17/words/1",
+                                    "#/readResults/1/lines/17/words/2",
+                                    "#/readResults/1/lines/17/words/3",
+                                    "#/readResults/1/lines/17/words/4"
+                                ]
+                            },
+                            {
+                                "rowIndex": 5,
+                                "columnIndex": 1,
+                                "text": "4",
+                                "boundingBox": [
+                                    5.1565,
+                                    3.3696,
+                                    7.8096,
+                                    3.3696,
+                                    7.8171,
+                                    3.6149,
+                                    5.164,
+                                    3.6149
+                                ],
+                                "elements": [
+                                    "#/readResults/1/lines/18/words/0"
+                                ]
+                            }
+                        ],
+                        "boundingBox": [
+                            0.4692,
+                            2.1678,
+                            7.794,
+                            2.1664,
+                            7.7917,
+                            3.6345,
+                            0.4664,
+                            3.6363
+                        ]
+                    }
+                ]
+            }
+        ],
+        "documentResults": [
+            {
+                "docType": "prebuilt:invoice",
+                "pageRange": [
+                    1,
+                    2
+                ],
+                "fields": {
+                    "InvoiceDate": {
+                        "type": "date",
+                        "valueDate": "2019-01-06",
+                        "text": "January 6, 2019",
+                        "boundingBox": [
+                            1.1314,
+                            2.895,
+                            2.7283,
+                            2.895,
+                            2.7283,
+                            3.0967,
+                            1.1314,
+                            3.0967
+                        ],
+                        "page": 1,
+                        "confidence": 0.88,
+                        "elements": [
+                            "#/readResults/0/lines/4/words/0",
+                            "#/readResults/0/lines/4/words/1",
+                            "#/readResults/0/lines/4/words/2"
+                        ]
+                    },
+                    "VendorName": {
+                        "type": "string",
+                        "valueString": "HYATT REGENCY'",
+                        "text": "HYATT REGENCY'",
+                        "boundingBox": [
+                            0.7206,
+                            1.1089,
+                            2.1699,
+                            1.1153,
+                            2.1692,
+                            1.2763,
+                            0.7199,
+                            1.27
+                        ],
+                        "page": 2,
+                        "confidence": 0.926,
+                        "elements": [
+                            "#/readResults/1/lines/0/words/0",
+                            "#/readResults/1/lines/0/words/1"
+                        ]
+                    }
+                }
+            }
+        ]
+    }
+}
